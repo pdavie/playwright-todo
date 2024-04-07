@@ -1,0 +1,16 @@
+{
+  "name": "playwright-talk",
+  "version": "1.0.0",
+  "description": "Resources for Playwright Guild Talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "ui": "playwright test --ui",
+    "codegen": "playwright codegen https://demo.playwright.dev/todomvc/#/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2"
+  }
+}
