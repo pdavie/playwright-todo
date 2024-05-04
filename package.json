@@ -8,7 +8,7 @@
     "ui": "playwright test --ui",
     "codegen": "playwright codegen https://demo.playwright.dev/todomvc/#/"
   },
-  "author": "",
+  "author": "Peter Davie",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.41.2"
